@@ -9,19 +9,18 @@ body {
 	color: #f2f2f2; /*off white*/
 	height: 100vh;
 	/*font-family: 'Roboto', sans-serif;*/
-	font-family: 'Kaushan Script', cursive;
-	
+	font-family: 'Crimson Text', serif;
 }
 h1{
     font-size: 50px;
     background-color: #333; /*off white*/
     text-transform: uppercase;
     margin-bottom: 0;
-    letter-spacing: 3px;
+    letter-spacing: 7px;
 }
 h2{
 	text-transform: uppercase;
-	letter-spacing: 5px;
+	letter-spacing: 6px;
 	color: yellow;
 }
 
@@ -39,7 +38,7 @@ h2{
 	width: 100%;
 	font-size: 15px;
 	line-height: 1.5;
-	background-color: rgba(51, 51, 51, 0.8);
+	background-color: rgba(51, 51, 51, 0.9);
     /*background-color: #333;*/
     /*opacity: 0.5;*/
 }
